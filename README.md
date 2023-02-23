@@ -2,7 +2,7 @@
 
 <h3 align="left">Front-end developer and Digital artist.</h3>
 
-- 🌱 I’m currently working with **React JS, Typescript, Node JS, Redux Toolkit, Chakra UI, Firebase.**
+- 🌱 I’m currently working with **React JS, Typescript, Redux Toolkit, Styled-Components.**
 - 📚 Learning **Next JS, React Native**
 
 <h3 align="left">Languages and Tools:</h3>
