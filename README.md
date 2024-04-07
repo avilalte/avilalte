@@ -2,7 +2,7 @@
 
 <h3 align="left">Front-end developer and Digital artist.</h3>
 
-- 🌱 I’m currently working with **NextJS, Typescript, Redux Toolkit, Tailwind.**
+- 🌱 I’m currently working with **NextJS, Typescript, Tailwind.**
 - 📚 Learning **Electron, NodeJS**
 
 <h3 align="left">Languages and Tools:</h3>
